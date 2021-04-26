@@ -26,6 +26,7 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 `git` | Version-Control
 `Vim`, `VSCode`, `Nano`, `Brackets` | Editor
 `Powershell`| Shell
+`Beauiful Soup 4` | Web Scraping Tool
 `Power BI` | Go to Visualization Tool
 ---
  
