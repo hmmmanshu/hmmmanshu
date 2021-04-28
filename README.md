@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-world problems**:earth_asia:. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-world problems**:earth_asia:. Do :star2: my repository if you find my project interesting.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -15,6 +15,7 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=Bot-7037&style=flat)
 
+### [My small projects](https://bot-7037.github.io/Projects/)<br>
 ### 💼  Things that I'm currently working on: 
 * Learning Data Analysis and Machine Learning and handling Big Data
 * Studying copmuter vision
