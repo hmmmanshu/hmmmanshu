@@ -15,7 +15,7 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=Bot-7037&style=flat)
 
-### [My small projects](https://bot-7037.github.io/Projects/)<br>
+### [**`My small projects`**](https://bot-7037.github.io/Projects/)<br>
 ### 💼  Things that I'm currently working on: 
 * Learning Data Analysis and Machine Learning and handling Big Data
 * Studying copmuter vision
