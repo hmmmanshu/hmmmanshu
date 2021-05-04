@@ -4,7 +4,6 @@
 <!--Introduction -->
 I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-world problems**:earth_asia:. Do :star2: my repository if you find my project interesting.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-negi-232566198/)
