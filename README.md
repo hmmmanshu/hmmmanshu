@@ -28,16 +28,12 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 `Power BI` | Go to Visualization Tool
 ---
  
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/Bot-7037?tab=repositories">
+<!-- GitHub README Stats -->
+<p>
     <img width="500" height="auto" align="center" alt="Himanshu's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Bot-7037&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Himanshu's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bot-7037&layout=compact" />
-  </a>
+    <br> <br> <br>
+    <img width="500" height="auto" align="center" alt="Himanshu's github stats" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bot-7037&layout=compact" />
 
-</p>
-
-<h4 align="center"> Thanks for Visiting! :innocent:</h4>
-
-:star: From [Himanshu Negu](https://github.com/Bot-7037)
+<h4 align="left"> Thanks for Visiting! :innocent:</h4> </p>
