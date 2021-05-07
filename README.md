@@ -5,7 +5,7 @@
 I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-world problems**:earth_asia:. Do :star2: my repository if you find my project interesting.
 <br>
 
-<p alight="right"><img width="400" height="280" align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img></p>
+<img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-negi-232566198/)
