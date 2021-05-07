@@ -5,6 +5,8 @@
 I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-world problems**:earth_asia:. Do :star2: my repository if you find my project interesting.
 <br>
 
+<p alight="right"><img width="400" height="280" align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img></p>
+
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-negi-232566198/)
 [![HackerRank](https://img.shields.io/badge/-Vicky_2000-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](http://www.hackerrank.com/Vicky_2000)
@@ -12,11 +14,15 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 [![Gmail](https://img.shields.io/badge/-hnegi12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hnegi12345@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Bot-7037&style=flat)
 
+
+
 ### [**`My small projects`**](https://bot-7037.github.io/Projects/)<br>
 ### 💼  Things that I'm currently working on: 
 * Learning Data Analysis and Machine Learning and handling Big Data
 * Studying copmuter vision
 * Trying hard on Competitive Programming
+
+
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
