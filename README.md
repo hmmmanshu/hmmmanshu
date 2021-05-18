@@ -19,8 +19,8 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 ### [**`My small projects`**](https://bot-7037.github.io/Projects/)<br>
 ### 💼  Things that I'm currently working on: 
 * Learning Data Analysis and Machine Learning and handling Big Data
-* Studying copmuter vision
 * Trying hard on Competitive Programming
+* Working on a samll project including SQL with Bigquery
 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -30,8 +30,7 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 `git` | Version-Control
 `Vim`, `VSCode`, `Nano`, `Brackets` | Editor
 `Powershell`| Shell
-`Beauiful Soup 4` | Web Scraping Tool
-`Power BI` | Go to Visualization Tool
+`Beauiful Soup 4`, `Power BI`| Other Tools
 ---
  
 <!-- GitHub README Stats -->
