@@ -26,7 +26,7 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
-`C`, `C++`, `Java`, `Python`, `Node JS`, `R`, `Julia` | Programming Language
+`C`, `C++`, `Java`, `Python`, `JS`, `R`, `Julia` | Programming Language
 `git` | Version-Control
 `Vim`, `VSCode`, `Nano`, `Brackets` | Editor
 `Powershell`| Shell
