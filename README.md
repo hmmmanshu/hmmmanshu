@@ -30,7 +30,7 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 `git` | Version-Control
 `Vim`, `VSCode`, `Nano`, `Brackets` | Editor
 `Powershell`| Shell
-`Beauiful Soup 4`, `Power BI`, `Selenium`, `Tableau`| Other Tools
+`Beauiful Soup 4`, `Power BI`, `Selenium`, `Tableau`, `SQL`, `BigQuery`| Other Tools
 ---
  
 <!-- GitHub README Stats -->
