@@ -21,6 +21,7 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 - Competitive Programming
 - Data Science and Machine Learning
 - Creative Applications
+- Game AI
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
