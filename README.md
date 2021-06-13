@@ -18,6 +18,9 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 
 ### [**`My small projects`**](https://bot-7037.github.io/Projects/)<br>
 
+- Competitive Programming
+- Data Science and Machine Learning
+- Creative Applications
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
