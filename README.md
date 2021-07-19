@@ -31,7 +31,7 @@ I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-wo
 `Vim`, `VSCode`, `Nano`, `Brackets` | Editor
 `Powershell`| Shell
 `Blender`, `Power BI`, `Tableau`, `SQL` | Other Tools
-`Selenium`, `BS4`, `OpenCV`, `nCurses` | Miscellaneous
+`Flask`, `Selenium`, `BS4`, `OpenCV`, `nCurses` | Miscellaneous
 ---
  
 <!-- GitHub README Stats -->
