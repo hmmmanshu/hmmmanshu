@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Himanshu! I'm a **Data Science Student**, looking forward to solve **real-world problems**:earth_asia:. Do :star2: my repository if you find my project interesting. [Although most of my repos are private :wink:]
+I'm Himanshu! and I code. 
 <br>
 
 <img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
