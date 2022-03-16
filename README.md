@@ -22,17 +22,19 @@ I'm Himanshu! and I code.
 - Competitive Programming
 - Data Science and Machine Learning
 - Creative Applications
+- Full stack Development
 - Game AI
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
 `C`, `C++`, `Java`, `Python`, `JS`, `R`, `Julia`, `JavaScript`| Programming Language
+`Django`| Full Stack
 `git` | Version-Control
 `Vim`, `VSCode`, `Nano`, `Brackets` | Editor
-`Powershell`| Shell
+`Powershell`, `zsh`| Shell
 `Blender`, `Power BI`, `Tableau`, `SQL` | Other Tools
-`Flask`, `Selenium`, `BS4`, `OpenCV`, `nCurses` | Miscellaneous
+`Flask`, `Selenium`, `BS4`, `OpenCV`, `nCurses`, `jQuery` | Miscellaneous
 ---
  
 <!-- GitHub README Stats -->
