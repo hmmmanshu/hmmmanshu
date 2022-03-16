@@ -12,6 +12,7 @@ I'm Himanshu! and I code.
 [![HackerRank](https://img.shields.io/badge/-Vicky_2000-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](http://www.hackerrank.com/Vicky_2000)
 [![Instagram](https://img.shields.io/badge/-hmmmanshu-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hmmmanshu/)
 [![Gmail](https://img.shields.io/badge/-hnegi12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hnegi12345@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-himanshu2000-c14438?style=flat&logo=kaggle&logoColor=blue)](mailto:hnegi12345@gmail.com)
 ![](https://komarev.com/ghpvc/?username=Bot-7037&style=flat)
 
 
