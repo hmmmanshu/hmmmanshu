@@ -28,13 +28,13 @@ I'm Himanshu! and I code.
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
-`C`, `C++`, `Java`, `Python`, `JS`, `R`, `Julia`, `JavaScript`| Programming Language
-`Django`| Full Stack
+`C`, `C++`, `Java`, `Python`, `JavaScript`, `Scala`, `JavaScript`| Programming Language
+`Django`, `JQuery`, `React`, `Sass` | Full Stack
 `git` | Version-Control
-`Vim`, `VSCode`, `Nano`, `Brackets` | Editor
-`Powershell`, `zsh`| Shell
+`NeoVim`, `VSCode` | Editor
+`PowerShell`, `zsh`| Shell
 `Blender`, `Power BI`, `Tableau`, `SQL` | Other Tools
-`Flask`, `Selenium`, `BS4`, `OpenCV`, `nCurses`, `jQuery` | Miscellaneous
+`Flask`, `Selenium`, `BS4`, `OpenCV`, `nCurses`| Miscellaneous
 ---
  
 <!-- GitHub README Stats -->
