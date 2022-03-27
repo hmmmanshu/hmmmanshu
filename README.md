@@ -28,7 +28,7 @@ I'm Himanshu! and I code.
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
-`C`, `C++`, `Java`, `Python`, `JavaScript`, `Scala`, `JavaScript`| Programming Language
+`C`, `C++`, `Java`, `Python`, `JavaScript`, `Scala` | Programming Language
 `Django`, `JQuery`, `React`, `Sass` | Full Stack
 `git` | Version-Control
 `NeoVim`, `VSCode` | Editor
