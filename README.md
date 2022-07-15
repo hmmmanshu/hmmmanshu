@@ -22,17 +22,16 @@ I'm Himanshu! and I code.
 - Competitive Programming
 - Data Science and Machine Learning
 - Creative Applications
+- Kotlin Android Developer
 - Full stack Development
 - Game AI
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
-`C`, `C++`, `Java`, `Python`, `JavaScript`, `Scala` | Programming Language
-`Django`, `JQuery`, `React`, `Sass` | Full Stack
+`C++`, `Java`, `Python`, `JavaScript`, `Kotlin` | Programming Language
+`Django` | Full Stack
 `git` | Version-Control
-`NeoVim`, `VSCode` | Editor
-`PowerShell`, `zsh`| Shell
 `Blender`, `Power BI`, `Tableau`, `SQL` | Other Tools
 `Flask`, `Selenium`, `BS4`, `OpenCV`, `nCurses`| Miscellaneous
 ---
