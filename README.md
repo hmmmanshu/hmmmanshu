@@ -15,8 +15,6 @@ I'm Himanshu! and I code.
 [![Kaggle](https://img.shields.io/badge/-himanshu2000-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/himanshunegi2000)
 ![](https://komarev.com/ghpvc/?username=Bot-7037&style=flat)
 
-### [**`My small projects`**](https://bot-7037.github.io/Projects/)<br>
-
 ### [**`Google Developer Profile`**](https://g.dev/himanshunegi)<br>
 
 - Competitive Programming
