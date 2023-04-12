@@ -28,7 +28,7 @@ I'm Himanshu! and I code.
  `Tool` | `Purpose`
 ---|---
 `C++`, `Java`, `Python`, `JavaScript`, `Kotlin` | Programming Language
-`Django` | Full Stack
+`Spring`, `Django` | Full Stack
 `git` | Version-Control
 `Blender`, `Power BI`, `Tableau`, `SQL` | Other Tools
 `Flask`, `Selenium`, `BS4`, `OpenCV`, `nCurses`| Miscellaneous
