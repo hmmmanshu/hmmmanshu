@@ -17,7 +17,7 @@ I'm Himanshu! and I code.
 
 ### [**`Google Developer Profile`**](https://g.dev/himanshunegi)<br>
 
-- Competitive Programming
+- Data Structures and Algorithms
 - Data Science and Machine Learning
 - Creative Applications
 - Kotlin Android Developer
